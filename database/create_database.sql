@@ -18,3 +18,4 @@ CREATE TABLE IF NOT EXISTS pessoa (
 SELECT * FROM pessoa;
 
 
+
